@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenBetweenReproDotnet9Raven6.2", "RavenBetweenReproDotnet9Raven6.2\RavenBetweenReproDotnet9Raven6.2.csproj", "{24965BB9-4CFA-4172-B752-0BAEEFE91641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenBetweenReproDotnet8Raven6.0", "RavenBetweenReproDotnet8Raven6.0\RavenBetweenReproDotnet8Raven6.0.csproj", "{6E64E5FF-DE70-4C77-A42C-DAC7248DF434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24965BB9-4CFA-4172-B752-0BAEEFE91641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24965BB9-4CFA-4172-B752-0BAEEFE91641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24965BB9-4CFA-4172-B752-0BAEEFE91641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24965BB9-4CFA-4172-B752-0BAEEFE91641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E64E5FF-DE70-4C77-A42C-DAC7248DF434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E64E5FF-DE70-4C77-A42C-DAC7248DF434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E64E5FF-DE70-4C77-A42C-DAC7248DF434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E64E5FF-DE70-4C77-A42C-DAC7248DF434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
